@@ -1,6 +1,6 @@
 <!-- python -m pipreqs.pipreqs -->
 
-# A Test driven development framework for VowalWabbit
+# A Test driven development framework
 
 ## Quick start:
 `python -m pip install -r requirements.txt`  
